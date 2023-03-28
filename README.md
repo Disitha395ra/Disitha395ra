@@ -1,3 +1,4 @@
+![logo](https://github.com/Disitha395ra/Disitha395ra/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Disitha Amasith Ranasinghe</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
